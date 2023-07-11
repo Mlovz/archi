@@ -1,0 +1,21 @@
+.btn {
+  font-weight: 700;
+  padding: 12px 56px;
+  border-radius: 56px;
+  border: 2px solid transparent;
+}
+
+.btn-outline {
+  border: 2px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+
+.btn-solid-green {
+  background: #65e4a3;
+  color: #0a2640;
+}
+.btn-solid-black {
+  background: var(--blue_100);
+  color: #fff;
+}
